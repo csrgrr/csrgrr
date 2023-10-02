@@ -10,7 +10,7 @@ Click my little doggy.<br>
 [![image](https://media.tenor.com/T63C0aAxseMAAAAC/cute-happy.gif)](https://csrgrr.github.io/)
 
 ## ⚙️ Main Projects:
-👁️ [Osiris Spelling Software](https://osirisspellingsoftware.000webhostapp.com/src/index.html): Research tool which allows you to check and compare the spellings of the name of Osiris in the Middle Kingdom Coffin Texts. Check here.<br><br>
+👁️ [Osiris Spelling Software](https://osirisspellingsoftware.000webhostapp.com/src/index.html): Research tool which allows you to check and compare the spellings of the name of Osiris in the Middle Kingdom Coffin Texts.<br><br>
 🏺 [OCR-PT-CT](https://www.mortexvar.com/ocr-pt-ct): This project will conceive, design, and develop a digital toolset to perform optical character recognition (OCR) of ancient Egyptian hieroglyphs on the Pyramid Texts (PT) and the Coffin Texts (CT) to provide a semi-automatic transcription of the original text into a standard code known as Manuel de Codage (MdC). Besides the technical challenge, the OCR-PT-CT project might enable researchers to search for textual and sign parallels much more efficiently. By the University of Alcala de Henares.<br><br>
 👨‍🏫 [El Escriba Frustrado](https://www.elescribafrustrado.com/): Platform for study, research, dissemination and opinion on Ancient Egypt. All icons and images were made from scratch.
 
@@ -32,11 +32,11 @@ Click my little doggy.<br>
 
 #### Hosting/cloud
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) <br>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) <br>
 
 #### Frameworks/libraries
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
@@ -44,7 +44,8 @@ Click my little doggy.<br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) <br>
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) <br>
 
 #### Server
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
