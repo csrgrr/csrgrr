@@ -10,6 +10,7 @@ Click my little doggy.<br>
 [![image](https://media.tenor.com/T63C0aAxseMAAAAC/cute-happy.gif)](https://csrgrr.github.io/)
 
 ## ⚙️ Main Projects:
+👁️ [Osiris Spelling Software](https://osirisspellingsoftware.000webhostapp.com/src/index.html): Research tool which allows you to check and compare the spellings of the name of Osiris in the Middle Kingdom Coffin Texts. Check here.<br><br>
 🏺 [OCR-PT-CT](https://www.mortexvar.com/ocr-pt-ct): This project will conceive, design, and develop a digital toolset to perform optical character recognition (OCR) of ancient Egyptian hieroglyphs on the Pyramid Texts (PT) and the Coffin Texts (CT) to provide a semi-automatic transcription of the original text into a standard code known as Manuel de Codage (MdC). Besides the technical challenge, the OCR-PT-CT project might enable researchers to search for textual and sign parallels much more efficiently. By the University of Alcala de Henares.<br><br>
 👨‍🏫 [El Escriba Frustrado](https://www.elescribafrustrado.com/): Platform for study, research, dissemination and opinion on Ancient Egypt. All icons and images were made from scratch.
 
