@@ -1,5 +1,6 @@
 # 🧔 About Me:
 
+📱 Frontend / Mobile Developer.<br>
 🖥  Currently working on SoftwareOne.<br>
 🤝 Collaborating with [MORTEXVAR](https://www.mortexvar.com/).<br>
 🗣️ English, Spanish, Galician, Portuguese.<br>
